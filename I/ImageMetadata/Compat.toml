@@ -42,4 +42,4 @@ ImageCore = "0.7"
 ["0.7-0"]
 ColorVectorSpace = "0.1.11-0"
 FixedPointNumbers = "0.3-0"
-ImageCore = "0.7-0"
+ImageCore = "0.8-0"

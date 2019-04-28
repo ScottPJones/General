@@ -23,5 +23,5 @@ julia = "0.7-1"
 ImageTransformations = "0.3-0"
 
 ["0.4-0"]
-ImageCore = "0.7-0"
+ImageCore = "0.8-0"
 julia = "1"

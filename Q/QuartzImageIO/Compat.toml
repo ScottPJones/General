@@ -49,4 +49,4 @@ julia = "0.7-1"
 ["0.6-0"]
 ColorVectorSpace = "0.2-0"
 FixedPointNumbers = "0.3-0"
-ImageCore = "0.7-0"
+ImageCore = "0.8-0"
